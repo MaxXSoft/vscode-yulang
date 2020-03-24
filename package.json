@@ -7,7 +7,7 @@
     "vscode": "^1.43.0"
   },
   "categories": [
-    "Programming Languages"
+    "Programming Languages", "Snippets"
   ],
   "publisher": "MaxXing",
   "author": {
@@ -30,6 +30,10 @@
       "language": "yulang",
       "scopeName": "source.yu",
       "path": "./syntaxes/yulang.tmLanguage.json"
+    }],
+    "snippets": [{
+      "language": "yulang",
+      "path": "./snippets/snippets.json"
     }]
   }
 }
