@@ -1,0 +1,74 @@
+{
+  "defineFunction": {
+    "prefix": "def",
+    "description": "Define a new function",
+    "body": [
+      "def $1($2)$3 {",
+      "  $4",
+      "}"
+    ]
+  },
+  "main": {
+    "prefix": "main",
+    "description": "Generate 'main' function",
+    "body": [
+      "extern def main(argc: i32, argv: u8**): i32 {",
+      "  $1",
+      "  0",
+      "}"
+    ]
+  },
+  "ifStatement": {
+    "prefix": "if",
+    "description": "Create 'if' statement",
+    "body": [
+      "if $1 {",
+      "  $2",
+      "}"
+    ]
+  },
+  "ifElseStatement": {
+    "prefix": "ifelse",
+    "description": "Create 'if-else' statement",
+    "body": [
+      "if $1 {",
+      "  $2",
+      "}",
+      "else {",
+      "  $3",
+      "}"
+    ]
+  },
+  "whenStatement": {
+    "prefix": "when",
+    "description": "Create 'when' statement",
+    "body": [
+      "when $1 {",
+      "  $2 {",
+      "    $3",
+      "  }",
+      "  else {",
+      "    $4",
+      "  }",
+      "}"
+    ]
+  },
+  "whileStatement": {
+    "prefix": "while",
+    "description": "Create 'while' statement",
+    "body": [
+      "while $1 {",
+      "  $2",
+      "}"
+    ]
+  },
+  "forInStatement": {
+    "prefix": "for",
+    "description": "Create 'for-in' statement",
+    "body": [
+      "for $1 in $2 {",
+      "  $3",
+      "}"
+    ]
+  }
+}
