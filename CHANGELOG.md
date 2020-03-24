@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "yulang" extension will be documented in this file.
+All notable changes to the "YuLang" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.1
 
-## [Unreleased]
-
-- Initial release
+* Release date: 2020-03-24
+* Description: Initial release.
