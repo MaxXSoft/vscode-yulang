@@ -9,6 +9,16 @@
   "categories": [
     "Programming Languages"
   ],
+  "publisher": "MaxXing",
+  "author": {
+    "name": "MaxXing"
+  },
+  "keywords": ["yulang", "yu"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxXSoft/vscode-yulang"
+  },
+  "license": "MIT",
   "contributes": {
     "languages": [{
       "id": "yulang",
