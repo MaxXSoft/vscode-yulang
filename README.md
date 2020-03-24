@@ -5,6 +5,7 @@ Extension of the Yu programming language ([YuLang](https://github.com/MaxXSoft/Y
 ## Features
 
 * Basic syntax highlighting for `.yu` files
+* Code snippets
 
 ![hilighting](images/highlighting.png)
 
