@@ -1,0 +1,9 @@
+# VS Code
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+
+# Build & Debug
+build
+debug

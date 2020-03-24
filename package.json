@@ -1,0 +1,25 @@
+{
+  "name": "yulang",
+  "displayName": "YuLang",
+  "description": "Syntax highlighting for YuLang.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "yulang",
+      "aliases": ["YuLang", "yulang"],
+      "extensions": [".yu"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "yulang",
+      "scopeName": "source.yu",
+      "path": "./syntaxes/yulang.tmLanguage.json"
+    }]
+  }
+}
