@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/MaxXSoft/vscode-yulang/issues"
   },
-  "icon": "./images/icon.png",
+  "icon": "images/icon.png",
   "license": "MIT",
   "contributes": {
     "languages": [{
