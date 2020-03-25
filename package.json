@@ -13,11 +13,15 @@
   "author": {
     "name": "MaxXing"
   },
-  "keywords": ["yulang", "yu"],
+  "keywords": ["yulang", "yu", "syntax"],
   "repository": {
     "type": "git",
     "url": "https://github.com/MaxXSoft/vscode-yulang"
   },
+  "bugs": {
+    "url": "https://github.com/MaxXSoft/vscode-yulang/issues"
+  },
+  "icon": "./images/icon.png",
   "license": "MIT",
   "contributes": {
     "languages": [{
