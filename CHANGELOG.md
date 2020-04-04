@@ -2,7 +2,16 @@
 
 All notable changes to the "YuLang" extension will be documented in this file.
 
-## 0.0.1
+## 0.0.2 - 2020-04-04
 
-* Release date: 2020-03-24
-* Description: Initial release.
+### Added
+
+* Code snippets for most YuLang keywords.
+
+### Fixed
+
+* Some bugs in syntax highlighting.
+
+## 0.0.1 - 2020-03-24
+
+Initial release.
