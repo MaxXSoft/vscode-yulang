@@ -24,11 +24,11 @@
 				},
 				{
 					"name": "entity.name.type.user.yulang",
-					"match": "\\b_*[A-Z][a-zA-Z]*\\b"
+					"match": "\\b_*[A-Z][a-zA-Z0-9]*\\b"
 				},
 				{
 					"name": "constant.other.variable.yulang",
-					"match": "\\b_*[A-Z]+(_[A-Z]+)*_*\\b"
+					"match": "\\b_*[A-Z]+(_[A-Z0-9]+)*_*\\b"
 				},
 				{
 					"name": "variable.other.yulang",
