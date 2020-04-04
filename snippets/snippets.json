@@ -70,5 +70,145 @@
       "  $3",
       "}"
     ]
+  },
+  "keywordVar": {
+    "prefix": "var",
+    "description": "YuLang keyword",
+    "body": ["var"]
+  },
+  "keywordLet": {
+    "prefix": "let",
+    "description": "YuLang keyword",
+    "body": ["let"]
+  },
+  "keywordDef": {
+    "prefix": "def",
+    "description": "YuLang keyword",
+    "body": ["def"]
+  },
+  "keywordDeclare": {
+    "prefix": "declare",
+    "description": "YuLang keyword",
+    "body": ["declare"]
+  },
+  "keywordType": {
+    "prefix": "type",
+    "description": "YuLang keyword",
+    "body": ["type"]
+  },
+  "keywordAs": {
+    "prefix": "as",
+    "description": "YuLang keyword",
+    "body": ["as"]
+  },
+  "keywordSizeOf": {
+    "prefix": "sizeof",
+    "description": "YuLang keyword",
+    "body": ["sizeof"]
+  },
+  "keywordStruct": {
+    "prefix": "struct",
+    "description": "YuLang keyword",
+    "body": ["struct"]
+  },
+  "keywordEnum": {
+    "prefix": "enum",
+    "description": "YuLang keyword",
+    "body": ["enum"]
+  },
+  "keywordAsm": {
+    "prefix": "asm",
+    "description": "YuLang keyword",
+    "body": ["asm"]
+  },
+  "keywordBool": {
+    "prefix": "bool",
+    "description": "YuLang keyword",
+    "body": ["bool"]
+  },
+  "keywordTrue": {
+    "prefix": "true",
+    "description": "YuLang keyword",
+    "body": ["true"]
+  },
+  "keywordFalse": {
+    "prefix": "false",
+    "description": "YuLang keyword",
+    "body": ["false"]
+  },
+  "keywordNull": {
+    "prefix": "null",
+    "description": "YuLang keyword",
+    "body": ["null"]
+  },
+  "keywordImport": {
+    "prefix": "import",
+    "description": "YuLang keyword",
+    "body": ["import"]
+  },
+  "keywordPublic": {
+    "prefix": "public",
+    "description": "YuLang keyword",
+    "body": ["public"]
+  },
+  "keywordExtern": {
+    "prefix": "extern",
+    "description": "YuLang keyword",
+    "body": ["extern"]
+  },
+  "keywordVolatile": {
+    "prefix": "volatile",
+    "description": "YuLang keyword",
+    "body": ["volatile"]
+  },
+  "keywordInline": {
+    "prefix": "inline",
+    "description": "YuLang keyword",
+    "body": ["inline"]
+  },
+  "keywordIf": {
+    "prefix": "if",
+    "description": "YuLang keyword",
+    "body": ["if"]
+  },
+  "keywordElse": {
+    "prefix": "else",
+    "description": "YuLang keyword",
+    "body": ["else"]
+  },
+  "keywordWhen": {
+    "prefix": "when",
+    "description": "YuLang keyword",
+    "body": ["when"]
+  },
+  "keywordWhile": {
+    "prefix": "while",
+    "description": "YuLang keyword",
+    "body": ["while"]
+  },
+  "keywordFor": {
+    "prefix": "for",
+    "description": "YuLang keyword",
+    "body": ["for"]
+  },
+  "keywordIn": {
+    "prefix": "in",
+    "description": "YuLang keyword",
+    "body": ["in"]
+  },
+  "keywordBreak": {
+    "prefix": "break",
+    "description": "YuLang keyword",
+    "body": ["break"]
+  },
+  "keywordContinue": {
+    "prefix": "continue",
+    "description": "YuLang keyword",
+    "body": ["continue"]
+  },
+  "keywordReturn": {
+    "prefix": "return",
+    "description": "YuLang keyword",
+    "body": ["return"]
   }
 }
