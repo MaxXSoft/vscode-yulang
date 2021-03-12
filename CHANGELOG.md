@@ -2,6 +2,16 @@
 
 All notable changes to the "YuLang" extension will be documented in this file.
 
+## 0.0.3
+
+### Added
+
+* Syntax highlighting for `isize` and `usize`.
+
+### Fixed
+
+* Bug about syntax highlighting of operators and numerics.
+
 ## 0.0.2 - 2020-04-04
 
 ### Added
