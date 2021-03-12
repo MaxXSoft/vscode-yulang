@@ -2,7 +2,7 @@
 
 All notable changes to the "YuLang" extension will be documented in this file.
 
-## 0.0.3
+## 0.0.3 - 2021-03-12
 
 ### Added
 
